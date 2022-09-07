@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["model.ts"],"sourcesContent":["import type { ImageStyle } from 'react-native';\nimport type { DropdownProps } from '../Dropdown/model';\n\nexport interface SelectCountryProps extends DropdownProps {\n  testID?: string;\n  itemTestIDField?: string;\n  imageField: string;\n  imageStyle?: ImageStyle;\n}\n"],"mappings":""}

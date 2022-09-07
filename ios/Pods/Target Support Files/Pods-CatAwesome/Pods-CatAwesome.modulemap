@@ -1,0 +1,6 @@
+module Pods_CatAwesome {
+  umbrella header "Pods-CatAwesome-umbrella.h"
+
+  export *
+  module * { export * }
+}

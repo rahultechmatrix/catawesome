@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["model.ts"],"sourcesContent":["export interface IUseDetectDevice {\n  isAndroid: boolean;\n  isIOS: boolean;\n  isTablet: boolean;\n}\n"],"mappings":""}
